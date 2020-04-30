@@ -1,2 +1,2 @@
 # github.animalgrid
-REsponsive animal grid using CSS grid
+Responsive animal grid using CSS grid
